@@ -1,2 +1,3 @@
-# Proyeto_Analisis_Precios_Viviendas
- Analisis de Datos de vivienda y explorar factores que afecta el precio
+# Proyeto Analisis Precios de Viviendas
+
+En este proyecto usamos herramientas de python para analizar los datos de viviendas y los factores que afecta en el precio de las mismas.
